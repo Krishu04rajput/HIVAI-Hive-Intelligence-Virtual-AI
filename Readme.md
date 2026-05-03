@@ -1,6 +1,6 @@
-# SUAI (Self Updating Artificial Intelligence)
+# HIVAI (Hive Intelligence Virtual AI)
 
-SUAI is a lightweight AI system that learns from new data and updates itself over time.
+HIVAI is a lightweight AI system that learns from new data and updates itself over time.
 
 ## Features
 - Self-learning model
@@ -13,4 +13,4 @@ SUAI is a lightweight AI system that learns from new data and updates itself ove
 - Real-time learning
 
 ## Author
-Project by [Your Name]
+Project by [Krishna Singh Rajput]
